@@ -41,6 +41,9 @@ The dataset contains information about cars including:
 - Linear Regression shows moderate performance
 - Polynomial Regression performs significantly worse
 - This indicates overfitting and poor generalization in the polynomial model
+  
+### 📊 Visualization Improvement
+To improve regression visualization, the input feature values were sorted before plotting predictions. This ensures a smooth and meaningful regression line instead of a zig-zag pattern caused by unordered data.
 
 ## ⚠️ Limitations
 - Dataset is small
